@@ -1,6 +1,6 @@
 # Write a Data Science Blog post
 
-Related Medium blog post [link]().
+Related Medium blog post [link](https://nauman-naeem.medium.com/olympics-data-exploration-dc59941d01c6).
 
 ### Project Motivation
 
